@@ -71,8 +71,8 @@ Para executar o projeto localmente, siga estas etapas:
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/ordem-de-livros.git
-   cd ordem-de-livros
+   git clone https://github.com/JoaoAlisonTI/ordem-livros.git
+   cd ordem-livros
    ```
 
 2. **Instale as dependências:**
